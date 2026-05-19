@@ -10,7 +10,8 @@ test('search functionality', async ({ page }) => {
  const searchBox = page.locator('input[name="q"]:not([readonly])');
  await expect(searchBox).toBeVisible();
  await searchBox.fill('iphone 16');
- await searchBox.press('Enter');
+ await searchBox.press('Enter your name');
+ await page.waitForTimeout(3000);
 
   // Expect a title "to contain" a substring.
   await expect(page).toHaveTitle(/iphone 16/i);

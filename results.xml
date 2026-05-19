@@ -1,0 +1,37 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="4.39925">
+<testsuite name="apiget.spec.ts" timestamp="2026-05-08T13:47:33.979Z" hostname="chromium" tests="1" failures="0" skipped="0" time="1.556" errors="0">
+<testcase name="API tsting Get Practise" classname="apiget.spec.ts" time="1.556">
+<system-out>
+<![CDATA[[
+  { bookingid: [33m1[39m },   { bookingid: [33m2[39m },   { bookingid: [33m3[39m },   { bookingid: [33m4[39m },
+  { bookingid: [33m5[39m },   { bookingid: [33m6[39m },   { bookingid: [33m7[39m },   { bookingid: [33m8[39m },
+  { bookingid: [33m9[39m },   { bookingid: [33m10[39m },  { bookingid: [33m11[39m },  { bookingid: [33m12[39m },
+  { bookingid: [33m13[39m },  { bookingid: [33m14[39m },  { bookingid: [33m15[39m },  { bookingid: [33m16[39m },
+  { bookingid: [33m17[39m },  { bookingid: [33m18[39m },  { bookingid: [33m19[39m },  { bookingid: [33m20[39m },
+  { bookingid: [33m21[39m },  { bookingid: [33m22[39m },  { bookingid: [33m23[39m },  { bookingid: [33m24[39m },
+  { bookingid: [33m25[39m },  { bookingid: [33m26[39m },  { bookingid: [33m27[39m },  { bookingid: [33m28[39m },
+  { bookingid: [33m29[39m },  { bookingid: [33m30[39m },  { bookingid: [33m31[39m },  { bookingid: [33m33[39m },
+  { bookingid: [33m34[39m },  { bookingid: [33m35[39m },  { bookingid: [33m36[39m },  { bookingid: [33m39[39m },
+  { bookingid: [33m40[39m },  { bookingid: [33m41[39m },  { bookingid: [33m42[39m },  { bookingid: [33m43[39m },
+  { bookingid: [33m44[39m },  { bookingid: [33m45[39m },  { bookingid: [33m46[39m },  { bookingid: [33m47[39m },
+  { bookingid: [33m48[39m },  { bookingid: [33m49[39m },  { bookingid: [33m50[39m },  { bookingid: [33m51[39m },
+  { bookingid: [33m52[39m },  { bookingid: [33m54[39m },  { bookingid: [33m55[39m },  { bookingid: [33m56[39m },
+  { bookingid: [33m57[39m },  { bookingid: [33m59[39m },  { bookingid: [33m60[39m },  { bookingid: [33m61[39m },
+  { bookingid: [33m62[39m },  { bookingid: [33m63[39m },  { bookingid: [33m64[39m },  { bookingid: [33m66[39m },
+  { bookingid: [33m67[39m },  { bookingid: [33m69[39m },  { bookingid: [33m70[39m },  { bookingid: [33m71[39m },
+  { bookingid: [33m73[39m },  { bookingid: [33m75[39m },  { bookingid: [33m76[39m },  { bookingid: [33m79[39m },
+  { bookingid: [33m80[39m },  { bookingid: [33m82[39m },  { bookingid: [33m83[39m },  { bookingid: [33m85[39m },
+  { bookingid: [33m86[39m },  { bookingid: [33m87[39m },  { bookingid: [33m89[39m },  { bookingid: [33m90[39m },
+  { bookingid: [33m91[39m },  { bookingid: [33m92[39m },  { bookingid: [33m94[39m },  { bookingid: [33m96[39m },
+  { bookingid: [33m97[39m },  { bookingid: [33m98[39m },  { bookingid: [33m99[39m },  { bookingid: [33m102[39m },
+  { bookingid: [33m104[39m }, { bookingid: [33m105[39m }, { bookingid: [33m106[39m }, { bookingid: [33m107[39m },
+  { bookingid: [33m109[39m }, { bookingid: [33m110[39m }, { bookingid: [33m111[39m }, { bookingid: [33m112[39m },
+  { bookingid: [33m114[39m }, { bookingid: [33m115[39m }, { bookingid: [33m116[39m }, { bookingid: [33m118[39m },
+  { bookingid: [33m119[39m }, { bookingid: [33m122[39m }, { bookingid: [33m123[39m }, { bookingid: [33m125[39m },
+  ... 2116 more items
+]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
